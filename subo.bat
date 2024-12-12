@@ -1,3 +1,3 @@
 git add .
-git commit -m "Ultimo Commit"
+git commit -m "Segun Commit"
 git push
